@@ -39,10 +39,10 @@
                   AssemblyCopyright="Copyright © Illallangi Enterprises 2013"
                   ComVisible="false"
                   AssemblyInformationalVersion="Built from hash '$(GitCommitHash)'"
-                  Guid="01635a92-4a4c-4578-ba8e-a4d7278ab433"
+                  Guid="361c6ef7-b4e8-4b2c-a84a-a2fe0ed62855"
                   AssemblyVersion="$(Version)"
                   AssemblyFileVersion="$(Version)"
-                  Condition="$(Version) != '0.0.0.1'" />
+                  Condition="$(Version) != '0.0.0.2'" />
   </Target>
 
   <Target Name="Compile" DependsOnTargets="Version">
