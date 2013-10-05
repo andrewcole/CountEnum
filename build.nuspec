@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Illallangi.CountEnum</id>
+    <version>$version$</version>
+    <title>Count Enum</title>
+    <authors>Illallangi Enterprises</authors>
+    <owners>Illallangi Enterprises</owners>
+    <projectUrl>http://illallangi.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A library to enumerate and count IEnumerables at the same time</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>IEnumerable</tags>
+  </metadata>
+</package>
